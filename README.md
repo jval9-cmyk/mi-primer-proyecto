@@ -30,4 +30,4 @@ Cada mini-proyecto en este monorepo está diseñado bajo los siguientes estánda
 
 1. Clona el repositorio en tu computadora:
    ```bash
-   git clone [https://github.com/jval9-cmyk/mi-primer-proyecto](https://github.com/jval9-cmyk/mi-primer-proyecto)
+   git clone (https://github.com/jval9-cmyk/mi-primer-proyecto)
